@@ -10,9 +10,14 @@
 
 - Tải Python 3.10: [https://www.python.org/downloads/release/python-3100/](https://www.python.org/downloads/release/python-3100/)
 - Khởi tạo môi trường:
-    ```bash
-    py -3.10 -m venv .venv
-    ```
+    - **Windows:**
+        ```bash
+        py -3.10 -m venv .venv
+        ```
+    - **Linux/MacOS:**
+        ```bash
+        python3.10 venv .venv
+        ```
 - Kích hoạt môi trường:
     - **Windows:**
         ```bash
