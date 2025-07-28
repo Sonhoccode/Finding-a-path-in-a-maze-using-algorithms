@@ -41,3 +41,7 @@ Sau khi kích hoạt môi trường ảo, chạy lệnh sau để cài đặt:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Mọi thắc mắc có thể liên hệ với địa chỉ sau:
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:caoson1193@gmail.com)
