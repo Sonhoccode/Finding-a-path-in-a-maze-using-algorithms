@@ -41,6 +41,7 @@ Sau khi kích hoạt môi trường ảo, chạy lệnh sau để cài đặt:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
