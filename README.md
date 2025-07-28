@@ -16,7 +16,7 @@
         ```
     - **Linux/MacOS:**
         ```bash
-        python3.10 venv .venv
+        python3.10 -m venv .venv
         ```
 - Kích hoạt môi trường:
     - **Windows:**
